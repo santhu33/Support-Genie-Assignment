@@ -25,4 +25,4 @@ The second table items can be altered using ADD/DELETE buttons as mentioned in t
 
 # Additional Details
 
-I have built using functional components and hooks.
+I have built this using functional components and React hooks.

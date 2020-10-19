@@ -1,3 +1,7 @@
+## Task
+https://docs.google.com/document/d/1oaXCB2l46arLMJ5TI0MP8wgAJv-3X7oeazF0djrkv3s/edit
+
+
 ## Directions to execute
 
 In the list-component directory, you can run:

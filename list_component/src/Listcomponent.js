@@ -6,7 +6,7 @@ import Button from "@material-ui/core/Button";
 import Secondtable from "./Secondtable.js"
 
 const a = ["mongo", "JS", "Python", "CPP", "Game Development","SuperVisor","Spanish","English","Telugu"];
-var b = ["JS","Telegu","SuperVisor"]
+var b = ["JS","Telugu","SuperVisor"]
 
 
 function Listcomponent() {

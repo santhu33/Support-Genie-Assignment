@@ -18,6 +18,7 @@ Automatically [http://localhost:3000](http://localhost:3000) gets opened and pro
 # Details of Project
 
 I have populated the first table as it can't be changed<br/>
+More data can be added in the file Listcomponent.js<br/>
 The second table items can be altered using ADD/DELETE buttons as mentioned in the task.
 
 
